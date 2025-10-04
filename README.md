@@ -84,5 +84,5 @@ The trained model gives predicted house prices and helps compare how different a
 ---
 
 ## 👨‍💻 Author
-**Khalith Syed**  
+**Khalith.S**  
 Student Project | Machine Learning Practice
